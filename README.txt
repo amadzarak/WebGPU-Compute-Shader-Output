@@ -1,5 +1,6 @@
 # WebGPU-Compute-Shader-Output
-quick and dirty webgpu output.
+quick and dirty webgpu output. i was having some trouble with actually being able to use the output from webgpu shaders. i still have quite 
+a bit to learn, as this is my first foray into graphics programming.
 
 i was going to keep this repo private, as i only was testing a few things for a larger project. but then i figured anyone else
 that is a beginner to webgpu can use this code a reference also.
